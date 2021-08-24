@@ -1,0 +1,18 @@
+{
+  "clock" : "Clock",
+  "timeZone": "Timezone",
+  "utc": "UTC",
+  "tasks": "Tasks",
+  "calculator": "Calculator",
+  "stopwatch": "Stopwatch",
+  "timer": "Timer",
+  "deleteTask": "Delete task?",
+  "no": "NO",
+  "yes": "YES",
+  "addTask": "Add task",
+  "description": "Description",
+  "start": "Start",
+  "stop": "Stop",
+  "lap": "Lap",
+  "reset": "Reset"
+}

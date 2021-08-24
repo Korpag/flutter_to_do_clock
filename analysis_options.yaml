@@ -1,0 +1,17 @@
+include: package:pedantic/analysis_options.yaml
+
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "lib/l10n/messages*"
+    - "lib/generated/"
+  strong-mode:
+    implicit-casts: false
+linter:
+  rules:
+    - prefer_const_constructors
+    - prefer_const_declarations
+    - avoid_print
+    - use_key_in_widget_constructors
+    - always_use_package_imports
